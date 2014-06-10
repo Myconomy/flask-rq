@@ -10,7 +10,7 @@
 
 """
 
-__version__ = '0.2'
+__version__ = '0.2-mcnm1'
 
 import redis
 
